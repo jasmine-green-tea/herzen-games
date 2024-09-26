@@ -1,0 +1,7 @@
+D:\desktop\sem5\Games\herzen-games\class-task-1-1\class-task-1-1\bin\Debug\class-task-1-1.exe.config
+D:\desktop\sem5\Games\herzen-games\class-task-1-1\class-task-1-1\bin\Debug\class-task-1-1.exe
+D:\desktop\sem5\Games\herzen-games\class-task-1-1\class-task-1-1\bin\Debug\class-task-1-1.pdb
+D:\desktop\sem5\Games\herzen-games\class-task-1-1\class-task-1-1\obj\Debug\class-task-1-1.csproj.AssemblyReference.cache
+D:\desktop\sem5\Games\herzen-games\class-task-1-1\class-task-1-1\obj\Debug\class-task-1-1.csproj.CoreCompileInputs.cache
+D:\desktop\sem5\Games\herzen-games\class-task-1-1\class-task-1-1\obj\Debug\class-task-1-1.exe
+D:\desktop\sem5\Games\herzen-games\class-task-1-1\class-task-1-1\obj\Debug\class-task-1-1.pdb
