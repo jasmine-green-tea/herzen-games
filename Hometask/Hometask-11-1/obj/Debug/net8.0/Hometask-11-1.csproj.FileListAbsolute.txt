@@ -1,0 +1,15 @@
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\Hometask-11-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\Hometask-11-1.AssemblyInfoInputs.cache
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\Hometask-11-1.AssemblyInfo.cs
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\Hometask-11-1.csproj.CoreCompileInputs.cache
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\Hometask-11-1.sourcelink.json
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\bin\Debug\net8.0\Hometask-11-1.exe
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\bin\Debug\net8.0\Hometask-11-1.deps.json
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\bin\Debug\net8.0\Hometask-11-1.runtimeconfig.json
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\bin\Debug\net8.0\Hometask-11-1.dll
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\bin\Debug\net8.0\Hometask-11-1.pdb
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\Hometask-11-1.dll
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\refint\Hometask-11-1.dll
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\Hometask-11-1.pdb
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\Hometask-11-1.genruntimeconfig.cache
+D:\desktop\sem5\Games\herzen-games\Hometask\Hometask-11-1\obj\Debug\net8.0\ref\Hometask-11-1.dll

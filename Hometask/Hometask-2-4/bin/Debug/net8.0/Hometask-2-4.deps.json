@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hometask-2-4/1.0.0": {
+        "runtime": {
+          "Hometask-2-4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hometask-2-4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
