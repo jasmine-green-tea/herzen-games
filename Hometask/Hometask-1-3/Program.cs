@@ -25,7 +25,7 @@ namespace hometask_1_3
             {
                 if (b == 0)
                 {
-                    Console.WriteLine($"Решение: любое число");
+                    Console.WriteLine($"Нет корней");
                 }
                 else
                 {
